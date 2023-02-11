@@ -1,0 +1,65 @@
+1. Who developed Python Programming Language?
+Answer:- Guido van Rossum
+
+2. Which type of Programming does Python Support?
+Answer:- Python support Object-oriented, Structured and functional programming.
+
+3. Is Python case sensitive when dealing with identifiers?
+Answer:- Yes, Python is a case-sensitive language, i.e., it treats uppercase and lowercase characters differently. This applies to identifiers too. You must avoid using the same name with different cases while naming identifiers.
+
+4. What is the correct extension of the Python file?
+Answer:- .py 
+
+5. Is Python code compiled or interpreted?
+Answer:- Python is an interpreted language.
+
+6. Name a few blocks of code used to define in Python language?
+Answer:- The following are blocks: a module, a function body, and a class definition.
+
+7. State a character used to give single line comments in Python?
+Answer:- # - Single line comment
+
+8. Mention functions which can help us to find the version of python that we are currently working on?
+Answer:- sys.version method, python_version() function,python-V command.
+
+9. Python supports the creation of anonymous functions at runtime, using a construct called 
+Answer:- lambda
+
+10. What does pip stand for python?
+Answer:- preferred installer program
+
+11. Mention a few built-in functions in python?
+Answer:- 
+print( ) function.
+type( ) function.
+input( ) function.
+pop( ) function.
+append( ) function.
+extend( ) function.
+remove( ) function.
+count( ) function.
+
+12. What is the maximum possible length of an identifier in Python?
+Answer:-  An identifier can have a maximum length of 79 characters in Python
+
+13. What are the benefits of using Python?
+Answer:- 
+1. Easy to Read, Learn and Write
+2. Improved Productivity
+3. Interpreted Language
+4. Dynamically Typed
+5. Free and Open-Source
+6. Vast Libraries Support
+
+14. How is memory managed in Python?
+Answer:- Memory management in Python involves a private heap containing all Python objects and data structures. The management of this private heap is ensured internally by the Python memory manager.
+
+15. How to install Python on Windows and set path variables?
+Answer:- Install python from this link https://www.python.org/downloads/
+After this, install it on your PC. Look for the location where PYTHON has been installed on your PC using the following command on your command prompt: cmd python.
+Then go to advanced system settings and add new variable and name it as PYTHON_NAME and paste the copied path.
+Then look for the path variable, select it's value and select edit
+Add a semicolon towards the end of the value if it's not present and then type %PYTHON_HOME%
+
+16. Is indentaion required in python?
+Answer:- Indentation refers to the spaces at the beginning of a code line. Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important. Python uses indentation to indicate a block of code.
